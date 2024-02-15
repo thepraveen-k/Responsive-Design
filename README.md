@@ -1,4 +1,6 @@
-# Responsive-Design
+# Responsive-Design https://thepraveen-k.github.io/Responsive-Design/
+
+The main motive for this project is to create a responsive design for mobile, tablet, desktop, and other devices.
 
 This project demonstrates how to create a responsive navigation bar with a menu for smaller screens and a sidebar with a close button for larger screens. The navigation bar is built using HTML, styled with CSS using Flexbox for alignment, and enhanced with JavaScript for DOM manipulation.
 
