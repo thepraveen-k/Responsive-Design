@@ -13,4 +13,5 @@ Basic DOM manipulation: Utilizes JavaScript for toggling sidebar visibility
 ## Website Source From:
 
 Background Image -  unsplash.com
+
 Close and Menu icons - googleicons.com
